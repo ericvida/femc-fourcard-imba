@@ -41,7 +41,7 @@ export tag Cards
 		radius:2
 		p:6 mb:8 @sm: 0
 		ff:$font
-		h:260px
+		h:260px @sm: 220px
 		position: relative
 		transition: transform .3s, box-shadow .3s
 		h3
